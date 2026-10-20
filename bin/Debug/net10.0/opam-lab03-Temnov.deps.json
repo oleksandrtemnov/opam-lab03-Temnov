@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "opam-lab03-Temnov/1.0.0": {
+        "runtime": {
+          "opam-lab03-Temnov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "opam-lab03-Temnov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
